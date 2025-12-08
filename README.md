@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/tJF5BJnC/border_top.png"/>
 <img src="https://i.postimg.cc/L5jTx5g9/zammiewammie.png"
   height="700"
-  align="right"/>
+  align="left"/>
 
 
 <h3 align="center"><strong><i>ᶻ 𝗓 𐰁 ZAM ★ !</i></strong><br><a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=visits&color=491e59&labelColor=f25356"/></a></h3>
