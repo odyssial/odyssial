@@ -1,7 +1,7 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/tJF5BJnC/border_top.png"/>
 <img src="https://i.postimg.cc/L5jTx5g9/zammiewammie.png"
-  height="700"
+  height="600"
   align="right"/>
 
 
