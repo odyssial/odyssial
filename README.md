@@ -11,7 +11,7 @@
         alt="art by @twow09" >
 <p align="center"> 
 <img src="https://i.postimg.cc/QMHnzTVR/spoke-3hu1x33.png"
-  height="370"
+  height="350"
   align="left"
   title="art by @3hu1x33"
   alt="art by @3hu1x33"/>
