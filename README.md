@@ -15,7 +15,7 @@
   align="left"
   title="art by @3hu1x33"
   alt="art by @3hu1x33"/>
-<br>
+
 <h3 align="center"><strong><i>ᶻ 𝗓 𐰁 ZAM ★ !</i></strong><br><a href="https://hits.sh/github.com/convexic/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=visits&color=ab7009&labelColor=eda82f"/></a></h3>
 <p align="center">23 year old genderqueer silly (he/they)</br><b>NEVER COPY MY PONIES</b><br><img src="https://emoji.lgbt/assets/svg/ace-flag.svg" height="65"> <img src="https://emoji.lgbt/assets/svg/aro-flag.svg" height="65">
 <br>
