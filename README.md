@@ -5,7 +5,7 @@
 
    <p align="center"
       
-<sub>[rentry](https://rentry.co/directorf1es) • soon c: • [ata](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@directorf1es)</sub>
+<sub>[rentry](https://rentry.co/odyssial) • soon c: • [ata](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@directorf1es)</sub>
 <br>
 <br>
 ———————— ⠀![spyglass](https://i.postimg.cc/YSPHzsxx/Spyglass-29-JE3-BE1-(1).png)⠀ ————————
