@@ -13,10 +13,10 @@
  <p align="center"
 
 <img
-        src="https://i.postimg.cc/j2HDkFt1/watermlem.gif" 
+        src="https://i.postimg.cc/25kNMFpM/twow09-odyduo-gif.gif" 
         width=60%
-        title="art by @watermlem"
-        alt="art by @watermlem" >
+        title="art by @twow09"
+        alt="art by @twow09" >
 
 
 <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i64oieobgxb6wqleuqf4ua3whq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"></p>
@@ -25,4 +25,4 @@
   <p align="center">
 <a 
 
-`ac. watermlem on twt`
+`ac. twow09 on twt`
