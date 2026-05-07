@@ -16,7 +16,7 @@
 
 i somehow broke the gif im losing it
 <img
-        src="https://i.postimg.cc/qBDt4yqj/zuristiie.gif" 
+        src="https://i.postimg.cc/9MVxmsxS/zuristiie.gif" 
         width=60%
         title="art by @zuristiie"
         alt="art by @zuristiie" >
