@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center"></strong><br><a href="https://hits.sh/github.com/odyssial/"><img alt="Hits" src="https://hits.sh/github.com/odyssial.svg?label=%E2%80%9C%20it's%20all%20yours%20.&extraCount=1676&color=adbc3b&labelColor=3f3b3b"/></a></p>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&duration=2000&pause=5&color=9080B2&center=true&vCenter=true&multiline=true&width=435&height=75&lines=thank+you+for+being+my+friend;anytime%2C+dude+" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=5&color=9080B2&center=true&vCenter=true&multiline=true&width=435&height=75&lines=i'm+going+to+remember+you;as+the+wifies+i+used+to+know" alt="Typing SVG" /></a></p>
 
    <p align="center"
       
