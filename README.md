@@ -6,7 +6,6 @@
    <p align="center"
       
 <sub>[rentry](https://rentry.co/odyssial) • [ata](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@directorf1es) • [tiktok](https://www.tiktok.com/@midoninin)</sub>
-<br><sub> gift me wifies or zam ponies :o ? or whisp if comms, i like ponies... </sub>
 <br>
 <br>
 ———————— ⠀![spyglass](https://i.postimg.cc/YSPHzsxx/Spyglass-29-JE3-BE1-(1).png)⠀ ————————
@@ -14,7 +13,7 @@
  <p align="center"
 
 <img
-        src="https://i.postimg.cc/HWMGkCkp/zuristiie.gif" 
+        src="https://i.postimg.cc/qBDt4yqj/zuristiie.gif" 
         width=60%
         title="art by @zuristiie"
         alt="art by @zuristiie" >
