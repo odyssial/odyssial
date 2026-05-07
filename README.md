@@ -14,12 +14,11 @@
 
  <p align="center"
 
-i somehow broke the gif im losing it
 <img
-        src="https://i.postimg.cc/9MVxmsxS/zuristiie.gif" 
+        src="https://i.postimg.cc/cL51d2kv/sinfulgh0st.gif" 
         width=60%
-        title="art by @zuristiie"
-        alt="art by @zuristiie" >
+        title="art by @sinfulgh0st"
+        alt="art by @sinfulgh0st" >
 
 
 <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i64oieobgxb6wqleuqf4ua3whq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"></p>
@@ -28,4 +27,4 @@ i somehow broke the gif im losing it
   <p align="center">
 <a 
 
-`ac. zuristiie on twitter`
+`ac. sinfulgh0st on tiktok`
