@@ -9,6 +9,10 @@
 <br><sub> gift me wifies or zam ponies :)? </sub>
 <sub>or whisp if u do comms </sub>
 <br>
+<sub>some1 whisped me and i missed it for this. whisp again or </sub>
+<br>
+<sub>msg me on discord with the same user :D </sub>
+<br>
 <br>
 ———————— ⠀![spyglass](https://i.postimg.cc/YSPHzsxx/Spyglass-29-JE3-BE1-(1).png)⠀ ————————
 
