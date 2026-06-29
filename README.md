@@ -1,34 +1,14 @@
 <div align="center">
 
-<p align="center"></strong><br><a href="https://hits.sh/github.com/odyssial/"><img alt="Hits" src="https://hits.sh/github.com/odyssial.svg?style=flat-square&extraCount=4489&color=8b60b9&labelColor=5b5b5b"/></a></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=5&color=9080B2&center=true&vCenter=true&multiline=true&width=435&height=75&lines=i'm+going+to+remember+you;as+the+wifies+i+used+to+know" alt="Typing SVG" /></a>
-
-   <p align="center"
-      
-<sub>[rentry](https://rentry.co/odyssial) • [atabook](https://directorfies.atabook.org/) • [prns.cc](https://pronouns.cc/@odyssial) • [tiktok](https://www.tiktok.com/@midoninin) • [listography](https://listography.com/odyssial)</sub>
-<br><sub> gift me wifies or zam ponies :)? </sub>
-<sub>or whisp if u do comms </sub>
-<br>
-<sub>some1 whisped me and i missed it for this. whisp again or </sub>
-<br>
-<sub>msg me on discord with the same user :D </sub>
-<br>
-<br>
-———————— ⠀![spyglass](https://i.postimg.cc/YSPHzsxx/Spyglass-29-JE3-BE1-(1).png)⠀ ————————
+<p align="center"></strong><br><a href="https://hits.sh/github.com/odyssial/"><img alt="Hits" src="https://hits.sh/github.com/odyssial.svg?label=it's%20all%20yours&extraCount=2479&color=8b60b9&labelColor=5b5b5b"/></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=10&color=8B60B9&center=true&vCenter=true&multiline=true&width=435&height=100&lines=c'mon%2C+smile+Parrot;you're+safe" alt="Typing SVG" /></a>
 
  <p align="center"
 
 <img
-        src="https://i.postimg.cc/K8bjGN7j/Ssstwitter-Com-1778182855531.gif" 
-        width=60%
-        title="art by @zuristiie"
-        alt="art by @zuristiie" >
+        src="https://file.garden/ahMHvma4rlrxNi-s/Lch_Ral" 
+        width=40%
+        title="art by @Lch_Ral"
+        alt="art by @Lch_Ral" >
 
-
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i64oieobgxb6wqleuqf4ua3whq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"></p>
-
-<p align="center"> 
-  <p align="center">
-<a 
-
-`ac. zuristiie on twitter`
+<sub><a href="https://rentry.co/odyssial">rentry</a> ⠀<a href="https://listography.com/odyssial/">listo</a>⠀ <a href="https://directorfies.atabook.org/">atabook</a></sub>
