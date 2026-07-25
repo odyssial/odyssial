@@ -16,6 +16,8 @@
 <br>
 <sub>whisp if u do pony comms</sub>
 <br>
+<sub>if i miss it, add on dsc! @odyssial</sub>
+<br>
 <br>
 <br>
 <br>
