@@ -9,7 +9,7 @@
 
 <img
         src="https://file.garden/ahMHvma4rlrxNi-s/New%20Project%20(23)%20(1).png" 
-        width=40%
+        width=50%
         title="art by @Kiruikuu"
         alt="art by @Kiruikuu" >
 
