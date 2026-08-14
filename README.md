@@ -1,5 +1,7 @@
 <div align="center">
-
+<br>
+<br>
+<br>
 <p align="center"></strong><br><a href="https://hits.sh/github.com/odyssial/"><img alt="Hits" src="https://hits.sh/github.com/odyssial.svg?label=it's%20all%20yours&extraCount=2479&color=8b60b9&labelColor=5b5b5b"/></a></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=19&color=4A4CBD&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=i+don't+think+i+can+believe+in;something+that+might+not+even+exist." alt="Typing SVG" /></a>
 
