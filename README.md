@@ -46,7 +46,7 @@ ${\textsf{\color{#ca6451} So, just let the thought of me die}}$<br>
       ${\textsf{\color{#cd9f90} will miss}}$ ${\textsf{\color{#e3b2a4} whispers}}$ <br>
         <div align="center"><details>
           <summary>${\textsf{\color{#e3b2a4}click me!}}$</summary>
-  <a href="https://github.com/collegar"><sub>colle ♡</a> <a href="https://github.com/wemmbus"><sub>stormy</a> <a href="https://github.com/curiouslatte"><sub>affy</a> <a href="https://github.com/GhoasTT"><sub>toby</a> <a href="https://github.com/Cer1isee"><sub>ceri</a><br><a href="https://smphill.straw.page/"><sub>my friend's 18+ smp </a><br><a href="https://x.com/fleurymse"><sub>art creds </a>
+  <a href="https://github.com/collegar"><sub>colle ♡</a> <a href="https://github.com/wemmbus"><sub>stormy</a> <a href="https://github.com/curiouslatte"><sub>affy</a> <a href="https://github.com/GhoasTT"><sub>toby</a> <a href="https://github.com/Cer1isee"><sub>ceri</a><br><a href="https://smphill.straw.page/"><sub>my friend's 18+ smp </a>
         </td>
         </details>
       <td>
