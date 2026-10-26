@@ -17,7 +17,7 @@
       <td><img align="center" width="200px" salt="image" src="https://file.garden/ahMHvma4rlrxNi-s/wifies%20png%201"></td>
       <td>
       ${\textsf{\color{#99031e} . ♡}}$ ${\textsf{\color{#a44e4d} Yin}}$ ${\textsf{\color{#5c1630}or Wifies}}$ <br>
-      ${\textsf{\color{#ca6451}◟}}$  ${\textsf{\color{#b74b2f} it / any}}$ ${\textsf{\color{#cd9f90} 23 y/o}}$ <br>
+      ${\textsf{\color{#ca6451}◟}}$  ${\textsf{\color{#b74b2f} it / any}}$ ${\textsf{\color{#cd9f90} 24 y/o}}$ <br>
       ${\textsf{\color{#ca6451} -16 }}$ ${\textsf{\color{#97041e} IWEC/DNI}}$ <br>
       <a href="https://pronouns.cc/@odyssial">+ names/prns</a> ${\textsf{\color{#e3b2a4} —}}$ <br>
     </tr>
